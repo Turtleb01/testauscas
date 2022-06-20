@@ -1,0 +1,8 @@
+muistiinpano, poistan kait kun parseMathOrder on valmis
+
+1. e
+2. ^
+3. * /
+4. + -
+
+ei osana laskujärjestystä: funktiot
